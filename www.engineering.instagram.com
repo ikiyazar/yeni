@@ -1,0 +1,1 @@
+["ikiyazar","şehirgunlukleri2022"]
